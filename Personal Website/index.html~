@@ -1,0 +1,30 @@
+<html>
+<head>
+	<title>Life Of Lucas Lizardo</title>
+	<link rel="stylesheet" type="text/css" href="master.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+	integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
+	crossorigin="anonymous">
+</head>
+
+<body>
+<div class="prof-box">
+	<img src="../images/prof2.jpg" class="prof-pic" width="200" height="300">
+	
+	<h1>Lucas Lizardo</h1>
+	<h5>Student Athlete - Class of 2019</h5>
+	
+	<div class="line-break"></div>
+	
+	<p>Paragraph About Myself
+	</p>
+	
+	<div class="social-icons">
+		<a href="aboutme.html"><i class="fas fa-user-circle"></i></a>
+		<a href="porfolio.html"><i class="fas fa-futbol"></i>
+	</div>
+</div>	
+	
+</body>
+
+</html>
